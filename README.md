@@ -26,6 +26,6 @@ A data science enthuastic ready to derive meaningful insights to inform public h
 
 ## Connect with me:
 <div id="badges">
-  <a href=https://www.linkedin.com/in/ethel-ogallo-8bb08893/)>
+  <a href=https://www.linkedin.com/in/robert-muturi-2bb0411b6/)>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
