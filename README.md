@@ -7,7 +7,7 @@
 
 A data science enthuastic ready to derive meaningful insights to inform public health.
 
-## Skills
+### Skills
 
 ### Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
