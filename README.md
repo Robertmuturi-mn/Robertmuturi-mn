@@ -12,9 +12,9 @@ A data science enthuastic ready to derive meaningful insights to inform public h
 ⭐ shiny dashboards
 ⭐statistical analysis
 ⭐ Design thinking
-⭐ Infection prevention and control
-⭐ Disease surveillance and control
-⭐ Occupational health and safety 
+⭐ Antimicrobial Susceptibility antibiograms development
+⭐ Data oriented disease surveillance
+⭐ epidemiology 
 
 ### Languages
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
