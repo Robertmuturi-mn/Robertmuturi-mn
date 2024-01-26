@@ -12,7 +12,7 @@ A data science enthuastic ready to derive meaningful insights to inform public h
 ⭐ shiny dashboards
 ⭐statistical analysis
 ⭐ Design thinking
-⭐ Antimicrobial Susceptibility antibiograms development
+⭐ Data oriented Antimicrobial resistance surveillance
 ⭐ Data oriented disease surveillance
 ⭐ epidemiology 
 
