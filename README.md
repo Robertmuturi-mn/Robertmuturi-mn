@@ -9,8 +9,8 @@ A data science enthuastic ready to derive meaningful insights to inform public h
 
 ### Skills
 ⭐data visualization
-⭐ Machine learning
-⭐Data oriented audits
+⭐ shiny dashboards
+⭐statistical analysis
 ⭐ Design thinking
 ⭐ Infection prevention and control
 ⭐ Disease surveillance and control
