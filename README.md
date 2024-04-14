@@ -5,7 +5,7 @@
 </div> 
 
 
-A data science enthuasist ready to derive meaningful insights to inform public health.
+A data scientist ready to derive meaningful insights to facilitate informed decisions.
 
 ### Skills
 ⭐data visualization
