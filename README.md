@@ -1,42 +1,50 @@
-### Hi there I'm Robert Muturi👋
+# Hi there, I'm Robert Muturi 👋
 
-<div align = 'center'>
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="480" height="200" />
-</div> 
+<div align='center'>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="400" height="180" />
+</div>
 
+*Data Scientist | Epidemiologist | Tech Enthusiast*
 
-A data scientist ready to derive meaningful insights to facilitate informed decisions.
+---
 
-### Skills
-⭐data visualization
-⭐ shiny dashboards
-⭐statistical analysis
-⭐ Design thinking
-⭐ Data oriented Antimicrobial resistance surveillance
-⭐ Data oriented disease surveillance
-⭐ epidemiology 
+## Skills
+- 🛠️ Data Visualization
+- 📊 Shiny Dashboards
+- 📈 Statistical Analysis
+- 🎨 Design Thinking
+- 🦠 Data-Oriented Antimicrobial Resistance Surveillance
+- 🧬 Data-Oriented Disease Surveillance
+- 🔬 Epidemiology 
 
-### Languages
+---
+
+## Languages
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Tools and Technologies
+## Tools and Technologies
 ![matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=blue)
- ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
- ![Markdown](https://img.shields.io/badge/Markdown-5B9BD5?style=for-the-badge&logo=markdown&logoColor=white)
- 
- ### OS
+![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-5B9BD5?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Operating Systems
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
 
-## Connect with me:
+## Connect with Me
 <div id="badges">
-  <a href=https://www.linkedin.com/in/robert-muturi-2bb0411b6/)>
+  <a href="https://www.linkedin.com/in/robert-muturi-2bb0411b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+---
 
