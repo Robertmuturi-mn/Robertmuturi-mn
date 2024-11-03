@@ -9,6 +9,7 @@
 ---
 
 ## Skills
+- 🤖 Artificial Intelligent Systems Development
 - 🛠️ Data Visualization
 - 📊 Shiny Dashboards
 - 📈 Statistical Analysis
